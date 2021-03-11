@@ -1,6 +1,5 @@
 SELECT Name from sys.Databases
 
---CREATE DATABASE lab3
 USE CollegeData
 
 SELECT table_catalog [database], table_name name
